@@ -1,0 +1,4 @@
+1|[U1] Explicar circuitos virtuales, como funciona el reenvio y como se arman las tablas
+2|[U1] Explciar datagramas, en que se  diferencian de los circuitos virtuales, como se ejecuta el reenvio
+3|[U1] ¿Que es la congestión en una red, y cuando se produce? Explciar por que sirve o no agrandar los buffers de los routers
+1|[U1] Explciar las 4 soluciones a la congestión
